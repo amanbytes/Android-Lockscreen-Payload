@@ -4,7 +4,7 @@ A python script that creates ducky script for bad usbs that can be used to unloc
 
 ## Usage
 
-You can simply copy-paste the ducky script from **payload.txt** file into your bad usb
+You can simply copy-paste the ducky script from **payload.txt** file into your bad usb or if you want to create you own ducky script with some changes then you can use **ducky_writer.py** file 
 
 ## Notice !
 
